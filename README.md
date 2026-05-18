@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://uwork.rf.gd/">
+ <a href="https://u-work-company.vercel.app/">
  <img src="/public/img/uwork.png" alt="W3T" width="100" height="41"/>
  </a> 
  <br>
