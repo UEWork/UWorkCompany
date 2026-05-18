@@ -6,7 +6,7 @@
  <br>
 </p>
 
-# Nextly - Landing Page Template with Next.js & Tailwind CSS
+# United Work Company - Landing Page Template with Next.js & Tailwind CSS
 
 United Work It is a Software Engineering Company. 
 Landing Page Its built with Next.js & TailwindCSS.
